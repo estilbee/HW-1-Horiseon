@@ -14,10 +14,10 @@ This project took an existing marketing website and updated it's HTML. I did thi
 </ul>
 
 ### Website Photos
-<header>
-    <img src= ".assets/images/horiseon1.png"/>
-    <img src= ".assets/images/horiseon2.png"/>
-</header>
+
+<img src= ".assets/images/horiseon1.png" > 
+<img src= ".assets/images/horiseon2.png" >
+
 
 
 <p> Thank you for reading! </p>
