@@ -15,8 +15,8 @@ This project took an existing marketing website and updated it's HTML. I did thi
 
 ### Website Photos
 
-<img src= ".assets/images/horiseon1.png" > 
-<img src= ".assets/images/horiseon2.png" >
+<img src= "HW-1-horiseon/assets/images/horiseon1.png" > 
+<img src= "HW-1-horiseon/assets/images/horiseon2.png" >
 
 
 
