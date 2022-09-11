@@ -13,9 +13,10 @@ This project took an existing marketing website and updated it's HTML. By refact
 </ul>
 
 ### Website Photos
-
-<img src= ".assets/images/horiseon1.png">
-<img src= ".assets/images/horiseon2.png">
+<header>
+    <img src= ".assets/images/horiseon1.png"/>
+    <img src= ".assets/images/horiseon2.png"/>
+</header>
 
 
 <p> Thank you for reading! </p>
