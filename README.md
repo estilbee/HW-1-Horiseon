@@ -4,10 +4,10 @@ This project took an existing marketing website and updated it's HTML. I did thi
 </p>
 
 ## Website Link
-<p> <a href= "C:/Users/oad83/Desktop/upennbootcamp/HW-1-Horiseon/index.html" > Visit Horiseon Website </a> 
+<p> <a href= "file:///C:/Users/oad83/Desktop/upennbootcamp/HW-1-Horiseon/index.html" > Visit Horiseon Website </a> 
 </p>
 
-### Teachnologies Used
+### Technologies Used
 <ul>
    <li> HTML </li>
    <li> CSS </li>
