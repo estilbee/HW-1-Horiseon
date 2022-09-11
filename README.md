@@ -4,7 +4,7 @@ This project took an existing marketing website and updated it's HTML. By refact
 </p>
 
 ## Website Link
-<a href="file:///C:/Users/oad83/Desktop/upennbootcamp/HW-1-Horiseon/index.html"> Visit Horiseon Website </a> 
+<a href="C:/Users/oad83/Desktop/upennbootcamp/HW-1-Horiseon/index.html"> Visit Horiseon Website </a> 
 
 ### Teachnologies Used
 <ul>
@@ -14,8 +14,8 @@ This project took an existing marketing website and updated it's HTML. By refact
 
 ### Website Photos
 
-<img src= ".desktop/horiseon1.png">
-<img src= ".desktop/horiseon2.png">
+<img src= ".assets/images/horiseon1.png">
+<img src= ".assets/images/horiseon2.png">
 
 
 <p> Thank you for reading! </p>
