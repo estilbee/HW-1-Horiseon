@@ -15,8 +15,8 @@ This project took an existing marketing website and updated it's HTML. I did thi
 
 ### Website Photos
 
-![horiseon screenshot 1](./assets/images/horiseon1.png) > 
-![horiseon screenshot 2](./assets/images/horiseon2.png) >
+![horiseon screenshot 1](./assets/images/horiseon1.png) 
+![horiseon screenshot 2](./assets/images/horiseon2.png)
 
 
 
