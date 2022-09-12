@@ -4,7 +4,7 @@ This project took an existing marketing website and updated it's HTML. I did thi
 
 
 ## Website Link
-[Visit Horiseon Website](index.html)
+[Visit Horiseon Website](https://estilbee.github.io/HW-1-Horiseon/)
 
 
 ### Technologies Used
@@ -15,9 +15,9 @@ This project took an existing marketing website and updated it's HTML. I did thi
 
 ### Website Photos
 
-![horiseon screenshot 1](./assets/images/horiseon1.png) 
-![horiseon screenshot 2](./assets/images/horiseon2.png)
+![horiseon screenshot 1](./assets/images/horiseon1.PNG) 
+![horiseon screenshot 2](./assets/images/horiseon2.PNG)
 
 
 
-<p> Thank you for reading! </p>
+Thank you for reading!
